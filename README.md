@@ -44,8 +44,6 @@ This project was developed using the following technologies:
 ## 💻 Project
 
 API under development
-This is a project developed during the **[PLAYLIST](LINK)**,
-presented by **[NOME-DO-CANAL](LINK)** during April 19, 2013.
 
 ---
 
