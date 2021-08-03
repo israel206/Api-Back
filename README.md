@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="apivacina" title="apivacina" src="" />
+    <img alt="Api-Back" title="Api-Back" src="" />
 </h1>
 
 <p align="center">
@@ -11,9 +11,9 @@
 <p align="center">
 
   [![Author](https://img.shields.io/badge/author-IsraelSilva-8257E5?style=flat-square)](https://github.com/israel206)
-  [![Languages](https://img.shields.io/github/languages/count/israel206/apivacina?color=%238257E5&style=flat-square)](#)
-  <img src="https://img.shields.io/github/forks/israel206/apivacina?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">    
-  <img src="https://img.shields.io/github/stars/israel206/apivacina?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
+  [![Languages](https://img.shields.io/github/languages/count/israel206/Api-Back?color=%238257E5&style=flat-square)](#)
+  <img src="https://img.shields.io/github/forks/israel206/Api-Back?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">
+  <img src="https://img.shields.io/github/stars/israel206/Api-Back?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
   <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
@@ -24,18 +24,19 @@
 
 This project was developed using the following technologies:
 
-  - [SpringBoot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-  - [Swagger](https://swagger.io/docs/)
-  - [Node.js](https://nodejs.org/en/download/) 
+- [SpringBoot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+- [Swagger](https://swagger.io/docs/)
+- [Node.js](https://nodejs.org/en/download/)
 
 ---
 
 ## 👨‍💻 Computer: How to run
 
 **Clone the project and access the folder**
+
   ```bash
     # clone repository
-    $ git clone https://github.com/israel206/apivacina.git
+    $ git clone https://github.com/israel206/Api-Back.git
   ```
 
 ---
@@ -43,7 +44,7 @@ This project was developed using the following technologies:
 ## 💻 Project
 
 API under development
-This is a project developed during the **[PLAYLIST](LINK)**, 
+This is a project developed during the **[PLAYLIST](LINK)**,
 presented by **[NOME-DO-CANAL](LINK)** during April 19, 2013.
 
 ---
